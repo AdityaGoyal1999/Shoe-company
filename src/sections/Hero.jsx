@@ -20,8 +20,8 @@ const Hero = () => {
         <div className="flex justify-start items-start flex-wrap w-full mt-20 gap-16">
           { statistics.map((stat, index) => (
             <div key={index}>
-              <p>{stat.value}</p>
-              <p>{stat.label}</p>
+              <p className="text-4xl font-palanquin font-bold">{stat.value}</p>
+              <p className="font-montserrat text-slate-gray leading-7">{stat.label}</p>
             </div>
           )) }
         </div>

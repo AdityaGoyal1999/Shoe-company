@@ -1,8 +1,3 @@
-# React + Vite
+# Shoe Company Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+The motivation behind this project is to create a modern and responsive front end with ReactJS and TailwindCSS. Many component libraries like ShadCn use tailwind which sparked an interest to learn about the framework.
